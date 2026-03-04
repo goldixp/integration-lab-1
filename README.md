@@ -1,5 +1,6 @@
 # Laboratorium 1: Git, GitHub i przygotowanie środowiska Django
-INNY TEKST
+SYMULACJA KONFLIKTU
+
 Celem tego laboratorium jest **praktyczne przygotowanie środowiska programistycznego, opanowanie systemu kontroli wersji Git oraz integracja z platformą GitHub wraz z automatyzacją.**
 
 W ramach realizacji zadań i wymagań zaliczeniowych wykonano następujące kroki:
